@@ -1,0 +1,33 @@
+.isi-hai {
+  font-size: 90px;
+}
+.jalu {
+  color: gold;
+  font-size: 90px;
+}
+.btn {
+  background-color: gold;
+  margin: 55px;
+  margin-left: 0px;
+  padding: 6px 30px;
+}
+.spasi {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-brand {
+  font-size: 18px;
+}
+
+.haihalo {
+  padding-left: 194px;
+  padding-top: 134px;
+}
+
+img {
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 130px; /* Jarak dari atas */
+  height: 40px;
+  padding-left: 194px;
+}
